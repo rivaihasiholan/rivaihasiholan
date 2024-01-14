@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rivaihasiholan
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Data Analytics
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on later
 - 📫 How to reach me, later.
